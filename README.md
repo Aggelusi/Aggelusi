@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Aggelusi
+- 👀 I’m interested in coding and it of course
+- 🌱 I’m currently learning C, C++ and VHDL
+- 💞️ I’m looking to collaborate on anything interesting
+- 📫 You can reach me on Discord: @aggelusi
+- ⚡ Fun fact: College coding assignments are harder than I initially thought
