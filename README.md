@@ -1,6 +1,6 @@
 # Angelos here!
 ## About Me
-I am a 1st-year student at the University of Athens, studying in the IT department. 
+I am a 2nd-year student at the University of Athens, studying in the IT department. 
 I am passionate about programming and currently focusing on learning and improving my skills in C, C++, Assembly and VHDL.
 
 ## Contact
